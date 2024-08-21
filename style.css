@@ -53,3 +53,8 @@ input {
     background:transparent;
     /* last 3 lines makes it invisible */
 }
+
+button {
+    border: none;
+    outline: none;
+}
